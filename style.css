@@ -82,8 +82,7 @@
 
 html
 {
-	background-color: #feae2b;
-	background: url("Bildhintergrund@2x.png") no-repeat center center scroll;
+	background:url("Bildhintergrund@2x.png") no-repeat center center scroll #feae2b;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -93,8 +92,7 @@ html
 @media screen and (max-aspect-ratio: 16/10){
 html
 {
-	background-color: #feae2b;
-	background: url("Bildhintergrund1610@2x.png") no-repeat center center scroll;
+	background:url("Bildhintergrund1610@2x.png") no-repeat center center scroll #feae2b;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -105,8 +103,7 @@ html
 @media screen and (aspect-ratio: 4/3){
 html
 {
-	background-color: #feae2b;
-	background: url("Bildhintergrund43@2x.png") no-repeat center center scroll;
+	background:url("Bildhintergrund43@2x.png") no-repeat center center scroll #feae2b;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -156,8 +153,7 @@ a
 	
 	html
 	{
-		background-color: #feae2b;
-		background: url("background_mobile.png") no-repeat center center scroll;
+		background:url("background_mobile.png") no-repeat center center scroll #feae2b;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
