@@ -1,0 +1,30 @@
+h1
+{
+	color: white;
+	font-size: 3vw;
+	font-family: all-round-gothic, sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	text-shadow: 2px 3px 5px rgba(0,0,0,0.1);
+}
+
+html
+{
+	background-color: #feae2b;
+}
+
+pre
+{
+	color: white;
+	font-size: 1vw;
+	font-family: all-round-gothic, sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	text-shadow: 2px 3px 5px rgba(0,0,0,0.1);
+}
