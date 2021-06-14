@@ -1,7 +1,7 @@
 h1
 {
 	color: white;
-	font-size: 3vw;
+	font-size: 40px;
 	font-family: all-round-gothic, sans-serif;
 	font-weight: 500;
 	font-style: normal;
@@ -11,20 +11,41 @@ h1
 	text-shadow: 2px 3px 5px rgba(0,0,0,0.1);
 }
 
-html
+body, html
 {
-	background-color: #feae2b;
+	background-color: #feae2a;
 }
 
-pre
+p
 {
 	color: white;
-	font-size: 1vw;
+	font-size: 20px;
 	font-family: all-round-gothic, sans-serif;
 	font-weight: 500;
 	font-style: normal;
-	text-align: center;
+	text-align:justify;
+	text-justify:inter-word;
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	word-wrap: normal;
+	text-shadow: 2px 3px 5px rgba(0,0,0,0.1);
+}
+
+div
+{
 	display: flex;
 	justify-content: center;
-	text-shadow: 2px 3px 5px rgba(0,0,0,0.1);
+}
+
+#fat
+{
+	font-weight: 1000;
+	text-align: left
+}
+
+li
+{
+  color: white;
 }
